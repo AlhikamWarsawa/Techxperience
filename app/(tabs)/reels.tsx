@@ -2,9 +2,9 @@ import { View, FlatList } from "react-native";
 import ReelItem from "@/components/ReelItem";
 import tw from "twrnc";
 
-const reelsData = [{ id: "1", videoId: "FYBSorOtpdU", title: "Reels 1" },
+const reelsData = [{ id: "1", videoId: "bEYsq3oP4EM", title: "Reels 1" },
     { id: "2", videoId: "bEYsq3oP4EM", title: "Reels 2" },
-    { id: "3", videoId: "RpoZrTLSo0k", title: "Reels 3" }];
+    { id: "3", videoId: "bEYsq3oP4EM", title: "Reels 3" }];
 
 const Reels = () => {
   return (
